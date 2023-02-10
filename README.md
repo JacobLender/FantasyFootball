@@ -8,7 +8,6 @@ Python Version: 3.7
 Packages: beautifulsoup, pandas, requests
 Website Scraped: https://www.espn.com/nfl/stats/player
 
-Web Scraping
 
 Information Scraped:
 
